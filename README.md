@@ -1,0 +1,3 @@
+This project is about creating a registration form using HTML. A registration form allows users to enter their personal details and sign up for a service, website, or application. The form typically includes input fields such as Name, Email, Phone Number, Password, and Confirm Password, along with options like gender selection, date of birth, and address.
+
+The main objective of this project is to collect user information in a structured format. Using HTML, we can design the form layout with labels and input fields, while CSS can be used to style the form, making it more attractive and user-friendly. Additionally, input attributes like required, type="email", type="password", and pattern can be used for basic form validation to ensure correct data entry.
